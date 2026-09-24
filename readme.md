@@ -118,7 +118,6 @@ Data Source
 The historical data of stocks is fetched from Yahoo Finance using quantmod package.
 
 Repository
-Github Repository: https://github.com/kherainfo-lgtm/Technical-Analysis-Using-R-Visualization-Stage.git
-
+Github Repository: https://github.com/rkhera2026/Technical-Analysis-Using-R-Visualization-Stage.git
 Conclusion
 This assignment showcases the use of R Shiny for visualizing financial data interactively. The dashboard includes the historical data of stocks, technical indicators, chart visualization, and trading rules.
